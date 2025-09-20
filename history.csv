@@ -11,3 +11,5 @@ timestamp,city,lat,lon,action
 2025-09-20T08:51:00.552704,berlin,,,search
 2025-09-20T09:13:31.610184,hamburg,,,search
 2025-09-20T09:14:02.905333,Hamburg,,,add_favorite
+2025-09-20T09:43:59.654360,berlin,,,search
+2025-09-20T09:49:28.073816,berlin,,,search
